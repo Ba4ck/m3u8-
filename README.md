@@ -2,7 +2,7 @@
 
 获取m3u8网址完整链接  
 如下  
-https://xxx.xxx.com/live/2b06fbd1-12c6-49d0-9972-a2b6f7c11edc_normal.m3u8?auth_key=xxxxx
+https://xxx.xxx.com/live/2b06fbd1-xxxxxxxx-9972-a2b6f7c11edc_normal.m3u8?auth_key=xxxxx
 
 获取该请求的响应，ts文件列表，如下  
 #EXTM3U  
